@@ -1,12 +1,4 @@
-git clone <url> <path>  //this will help to connect the repository to the local machine
-git remote -v     // this will display the URL of the repository you created in GitHub
- 
- //here origin refers to the name of the remote connection
- 
- Create a new file in the git_test folder called “README.md” with the command *touch filename.
- git status
- git add .
- git commit -m "message"
- git log  // this shows the commit which have done on the machine
- 
- git push origin master.    // to push the files from local machine to the remote repository!
+Commands nnecessary to connect the github to local machine 
+
+These commands help to push and pull the request from the git !
+
